@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "367559064701",
+    "project_id": "collabzone-59953",
+    "storage_bucket": "collabzone-59953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367559064701:android:693c5ef908f60a5d294514",
+        "android_client_info": {
+          "package_name": "com.example.collabzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367559064701-huo5qha3fq6lhd98se7u0lt1l7h6hjfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCN3w1cEpnQV9DQZylukZVbrMovnddHIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367559064701-huo5qha3fq6lhd98se7u0lt1l7h6hjfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367559064701:android:1dcb2cd4de8921e3294514",
+        "android_client_info": {
+          "package_name": "com.example.otpdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367559064701-ge9jplck5csqaaj642c9sq54rjrf65fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otpdetector",
+            "certificate_hash": "3df47caa5836f671d3c6fa6dfa9ec08fbcaaa89b"
+          }
+        },
+        {
+          "client_id": "367559064701-huo5qha3fq6lhd98se7u0lt1l7h6hjfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCN3w1cEpnQV9DQZylukZVbrMovnddHIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367559064701-huo5qha3fq6lhd98se7u0lt1l7h6hjfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
