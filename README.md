@@ -40,3 +40,10 @@ The application detects OTP and verifies it for a given number.
 
 #### OTP verification screen
 <img src="https://res.cloudinary.com/dixttklud/image/upload/v1679234960/Otpdetector/Screenshot_20230319-174655_OTPdetector_et5a5z.jpg" width = 20% height = 20%>
+
+
+#### Video
+
+
+https://user-images.githubusercontent.com/112721585/226264911-a5e03fed-3304-4296-9416-c12002ac7b50.mp4
+
